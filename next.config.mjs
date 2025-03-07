@@ -1,5 +1,6 @@
 // next.config.mjs
 const nextConfig = {
+  reactStrictMode: false,
   eslint: {
     ignoreDuringBuilds: true,
   },
